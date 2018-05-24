@@ -1,0 +1,3 @@
+/Users/wisdomose/Desktop/c++test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wisdomose/Desktop/c++test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wisdomose/Desktop/c++test/cmake-build-debug/CMakeFiles/c__test.dir
