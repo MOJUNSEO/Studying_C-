@@ -1,0 +1,3 @@
+/Users/wisdomose/Desktop/Project_for_git/TryToC++/c++part3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wisdomose/Desktop/Project_for_git/TryToC++/c++part3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wisdomose/Desktop/Project_for_git/TryToC++/c++part3/cmake-build-debug/CMakeFiles/c__part3.dir
