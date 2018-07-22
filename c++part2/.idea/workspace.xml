@@ -26,8 +26,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+            <state relative-caret-position="-168">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="c__part2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="c++part2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.c__part2">
+  <component name="RunManager" selected="Application.Build All">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__part2" RUN_TARGET_NAME="c__part2" EXPLICIT_BUILD_TARGET_NAME="all" />
     <configuration name="c__part2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c__part2" TARGET_NAME="c__part2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__part2" RUN_TARGET_NAME="c__part2" />
     <list>
@@ -101,11 +111,12 @@
       <updated>1526366667976</updated>
       <workItem from="1526366669163" duration="322000" />
       <workItem from="1526544364237" duration="2576000" />
+      <workItem from="1527158277797" duration="142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2898000" />
+    <option name="totallyTimeSpent" value="3040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="0" />
@@ -113,7 +124,7 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3292517" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3292517" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
@@ -126,9 +137,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +151,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
         </state>
@@ -147,8 +165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+        <state relative-caret-position="-168">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
